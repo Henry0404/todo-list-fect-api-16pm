@@ -1,5 +1,5 @@
 body {
-  background-color: papayawhip;
+  background-color: rgb(182, 214, 41);
 }
 
 .form {
@@ -24,12 +24,6 @@ body {
   color: white;
 }
 
-.validacion {
-  width: 80%;
-  color: red;
-  margin: 0 auto;
-}
-
 .lista {
   width: 80%;
   margin: 50px auto 0;
@@ -43,5 +37,5 @@ body {
 }
 
 input {
-  border-radius: 10px;
+  border-radius: 8px;
 }
